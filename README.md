@@ -2,9 +2,8 @@
 
 ## Identitas
 
-- **Nama Lengkap:** *(isi nama lengkap Anda)*
-- **NIM/ID:** *(isi NIM atau ID Anda)*
-- **Tautan Kode Aplikasi di GitHub:** *(isi tautan repository GitHub Anda)*
+- **Nama Lengkap: Andika Arif Sofyan
+- NIM: 32602200027
 
 ## Deskripsi Aplikasi
 
